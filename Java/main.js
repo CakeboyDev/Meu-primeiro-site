@@ -2,17 +2,17 @@
 
 //if(idade<18)
 //{
-  //alert("Di menó");
+//alert("Di menó");
 //}
 //else
 //{
-  //alert("Dentro da lei");
+//alert("Dentro da lei");
 //}
 
-function caqui(){
-document.getElementById("jamanta").innerHTML="selocooooooo";
-}
-function ciqua()
-{
-document.getElementById("jamanta").innerHTML="A Matilha";
-}
+//function caqui(){
+//document.getElementById("jamanta").innerHTML="selocooooooo";
+//}
+//function ciqua()
+//{
+//document.getElementById("jamanta").innerHTML="A Matilha";
+//}
